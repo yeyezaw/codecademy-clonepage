@@ -99,9 +99,45 @@ nav .btn-signup {
 #hero .btn-social .deco-text {
   text-decoration: none; }
 
+/* Video Section */
+#video {
+  height: 400px; }
+
+#video h2 {
+  text-align: right;
+  width: 250px;
+  margin-left: 200px; }
+
+#video p {
+  text-align: right;
+  width: 330px;
+  margin-left: 120px; }
+
+.video-text {
+  padding-top: 100px; }
+
+/* Strories */
+#stories {
+  background: #ECECEC;
+  height: 700px; }
+
+#stories h2 {
+  width: 400px;
+  margin-left: 500px;
+  padding-top: 80px; }
+
+#stories .col-md-4 {
+  background: #fff;
+  height: 500px; }
+
 /* Typography */
 h1 {
   font-size: 38px;
+  font-weight: 300;
+  color: #34495E; }
+
+h2 {
+  font-size: 33px;
   font-weight: 300;
   color: #34495E; }
 
@@ -109,5 +145,9 @@ h3 {
   font-size: 18px;
   font-weight: 300;
   color: #979797; }
+
+p {
+  font-size: 17px;
+  font-weight: 300; }
 
 /*# sourceMappingURL=style.css.map */
