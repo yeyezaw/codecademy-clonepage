@@ -1,0 +1,113 @@
+/* General */
+body {
+  font-size: 16px;
+  font-family: "Oxygen";
+  font-weight: 300; }
+
+/* Navigation Bar */
+nav {
+  height: 50px; }
+
+nav .logo {
+  padding-top: 11px;
+  margin-left: 100px;
+  width: 12%; }
+
+nav .btn-login {
+  background: transparent;
+  border-radius: 1px;
+  border-color: #1ABC9C;
+  color: #1ABC9C;
+  font-size: 13px;
+  text-transform: uppercase;
+  margin-top: 8px;
+  width: 130px;
+  height: 35px;
+  float: right; }
+
+nav .btn-signup {
+  background: #1abc9c;
+  border-radius: 1px;
+  border-color: #1ABC9C;
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+  margin-top: 8px;
+  margin-left: 20px;
+  margin-right: 120px;
+  width: 130px;
+  height: 35px;
+  float: right; }
+
+/* Main section */
+#hero {
+  background: #ECECEC;
+  margin: 0;
+  padding: 0;
+  height: 600px; }
+
+.hero-text {
+  padding-left: 320px;
+  padding-top: 30px;
+  padding-bottom: 100px; }
+
+#hero h1 {
+  margin: 0;
+  padding: 0;
+  width: 600px; }
+
+#hero .imac {
+  width: 65%;
+  padding-top: 80px;
+  padding-right: 30px; }
+
+#hero .col-md-6 {
+  padding-left: 120px; }
+
+#hero .col-md-6 h3 {
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 25px;
+  width: 300px;
+  padding-bottom: 30px; }
+
+#hero .form-control {
+  border-radius: 1px;
+  width: 300px;
+  height: 45px;
+  font-size: 16px; }
+
+#hero .btn-signup2 {
+  background: #1abc9c;
+  border-radius: 0;
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  width: 300px;
+  height: 45px;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+#hero .btn-social {
+  background: white;
+  border-radius: 1px;
+  color: #939393;
+  font-size: 15px;
+  width: 150px;
+  height: 40px; }
+
+#hero .btn-social .deco-text {
+  text-decoration: none; }
+
+/* Typography */
+h1 {
+  font-size: 38px;
+  font-weight: 300;
+  color: #34495E; }
+
+h3 {
+  font-size: 18px;
+  font-weight: 300;
+  color: #979797; }
+
+/*# sourceMappingURL=style.css.map */

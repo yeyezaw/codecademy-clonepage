@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="314px" height="237px" viewBox="0 0 314 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>iMac</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-256.000000, -338.000000)">
+            <g id="iMac" sketch:type="MSLayerGroup" transform="translate(256.000000, 338.000000)">
+                <g id="stand" transform="translate(108.712329, 208.358177)" sketch:type="MSShapeGroup">
+                    <g id="Group" transform="translate(1.053512, 0.000000)" fill="#C7C7C7">
+                        <path d="M47.4080268,0 L47.4080268,25.9397646 L0.010486338,25.9397646 C0.010486338,25.9397646 6.10080198,23.5819754 9.82848442,19.4463919 C13.5561668,15.3108083 13.5561668,0 13.5561668,0 L47.4080268,0 Z" id="Rectangle-6"></path>
+                        <path d="M92.7195164,0 L92.7195164,25.9397646 L44.2474916,25.9397646 C44.2474916,25.9397646 50.4758724,23.5819754 54.28806,19.4463919 C58.1002476,15.3108083 58.1002476,0 58.1002476,0 L92.7195164,0 Z" id="Rectangle-6" transform="translate(68.483504, 12.969882) scale(-1, 1) translate(-68.483504, -12.969882) "></path>
+                    </g>
+                    <rect id="Rectangle-6" fill="#A9A9A9" x="0.482892465" y="25.5258321" width="93.800504" height="3.06309986" rx="40"></rect>
+                    <rect id="Rectangle-17" fill="#AAAAAA" x="14.6993993" y="0" width="65.3674903" height="4.08413314"></rect>
+                </g>
+                <rect id="screen-border" fill="#423F3C" sketch:type="MSShapeGroup" x="0.0535117057" y="0.0042865001" width="313.946488" height="183.785991" rx="10"></rect>
+                <path d="M0.0535117057,180.769245 L0.0535117057,198.36628 C0.0535117057,204.436937 4.98486134,209.358177 11.0544149,209.358177 L302.999097,209.358177 C309.074728,209.358177 314,204.427293 314,198.36628 L314,180.769245 L0.0535117057,180.769245 Z" id="Rectangle-17" fill="#DEDEDE" sketch:type="MSShapeGroup"></path>
+                <rect id="screen" fill="#FFFFFF" sketch:type="MSShapeGroup" x="14.8026756" y="13.3306106" width="284.450012" height="156.218093"></rect>
+                <text id="&lt;---/&gt;" sketch:type="MSTextLayer" font-family="Lato" font-size="48" font-weight="normal" sketch:alignment="middle" fill="#939393">
+                    <tspan x="102.312" y="107">&lt;   /&gt;</tspan>
+                </text>
+                <rect id="Rectangle-16" stroke="#ECECEC" fill="#ECECEC" sketch:type="MSShapeGroup" x="15" y="14" width="283.450012" height="8"></rect>
+                <path d="M157.173868,9.54542862 C158.337545,9.54542862 159.280891,8.63116433 159.280891,7.50336205 C159.280891,6.37555977 158.337545,5.46129548 157.173868,5.46129548 C156.010191,5.46129548 155.066844,6.37555977 155.066844,7.50336205 C155.066844,8.63116433 156.010191,9.54542862 157.173868,9.54542862 Z" id="camera" fill="#9E9E9E" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
