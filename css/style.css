@@ -4,6 +4,42 @@ body {
   font-family: "Oxygen";
   font-weight: 300; }
 
+/* Typography */
+h1 {
+  font-size: 38px;
+  font-weight: 300;
+  color: #34495E; }
+
+h2 {
+  font-size: 33px;
+  font-weight: 300;
+  color: #34495E; }
+
+h3 {
+  font-size: 20px;
+  font-weight: 300;
+  color: #979797; }
+
+h4 {
+  font-size: 17px;
+  font-weight: 300;
+  color: #34495E; }
+
+h5 {
+  font-size: 15px;
+  font-weight: 300;
+  color: #34495E; }
+
+h6 {
+  font-size: 16px;
+  font-weight: 300;
+  color: #333;
+  margin: 0; }
+
+p {
+  font-size: 17px;
+  font-weight: 300; }
+
 /* Navigation Bar */
 nav {
   height: 50px; }
@@ -164,41 +200,5 @@ nav .btn-signup {
   margin-top: 50px;
   width: 120px;
   height: 120px; }
-
-/* Typography */
-h1 {
-  font-size: 38px;
-  font-weight: 300;
-  color: #34495E; }
-
-h2 {
-  font-size: 33px;
-  font-weight: 300;
-  color: #34495E; }
-
-h3 {
-  font-size: 20px;
-  font-weight: 300;
-  color: #979797; }
-
-h4 {
-  font-size: 17px;
-  font-weight: 300;
-  color: #34495E; }
-
-h5 {
-  font-size: 15px;
-  font-weight: 300;
-  color: #34495E; }
-
-h6 {
-  font-size: 16px;
-  font-weight: 300;
-  color: #333;
-  margin: 0; }
-
-p {
-  font-size: 17px;
-  font-weight: 300; }
 
 /*# sourceMappingURL=style.css.map */
