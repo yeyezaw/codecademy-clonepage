@@ -159,7 +159,7 @@ nav .btn-signup {
 /* Strories */
 #stories {
   background: #ECECEC;
-  height: 950px; }
+  height: 900px; }
 
 #stories h1 {
   font-size: 33px;
@@ -215,9 +215,10 @@ nav .btn-signup {
   display: inline-table; }
 
 .links-gp .logo {
-  width: 65%; }
+  width: 65%;
+  padding-bottom: 20px; }
 
-.links-gp .logo, h6 {
+.links-gp h6 {
   padding-bottom: 20px; }
 
 .links {
